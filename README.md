@@ -1,6 +1,8 @@
 # vcovHAC
 Heteroscedasticity and Autocorrelation Consistent (HAC) Covariance Matrix Estimation Use vcovHAC And vcov (sandwich) With (In) R Software
 
+https://www.youtube.com/watch?v=3Byf1Y6Spbg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
